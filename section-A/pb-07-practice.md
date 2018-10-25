@@ -21,7 +21,7 @@
 
 ## I will show source code later 
 
-## Just Try ^^
+## Try it on your own !!!!!
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
