@@ -17,6 +17,10 @@
 - 패턴을 찾아 모양을 그리기
 
 
+<hr>
+## I will show source code later 
+## Just Try ^^
 
-## I will update later ^^
-
+<hr>
+<marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
+<div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
